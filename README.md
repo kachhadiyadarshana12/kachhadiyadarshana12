@@ -16,14 +16,14 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-## 🐍 `whoami`
+## ![Terminal](https://img.shields.io/badge/-whoami-000000?style=flat-square&logo=gnubash&logoColor=white) `whoami`
 
 ```python
 class Darshana(Developer):
 
     name     = "Darshana Kachhadiya"
     role     = "Python · Django Developer"
-    location = "Gujarat, India 🇮🇳"
+    location = "Gujarat, India"
     
     currently = {
         "building"  : "Scalable Django REST APIs",
@@ -31,34 +31,37 @@ class Darshana(Developer):
         "exploring" : "Cloud deployments & Microservices",
     }
 
-    fun_fact = "I think in models, views & URLs 😄"
+    fun_fact = "I think in models, views & URLs"
 
     def say_hello(self):
-        return "Let's build something amazing together! 🚀"
+        return "Let's build something amazing together!"
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Arsenal
+## ![Tech](https://img.shields.io/badge/-Tech_Arsenal-1a1a2e?style=flat-square&logo=coggle&logoColor=white) Tech Arsenal
 
 <div align="center">
 
-### 🐍 Languages & Frameworks
+### ![Code](https://img.shields.io/badge/-Languages_%26_Frameworks-092E20?style=flat-square&logo=python&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Tools
+### ![Database](https://img.shields.io/badge/-Databases_%26_Tools-316192?style=flat-square&logo=postgresql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ DevOps & Environment
+### ![DevOps](https://img.shields.io/badge/-DevOps_%26_Environment-F05032?style=flat-square&logo=git&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -70,7 +73,7 @@ class Darshana(Developer):
 
 ---
 
-## 📊 GitHub Stats
+## ![Stats](https://img.shields.io/badge/-GitHub_Stats-181717?style=flat-square&logo=github&logoColor=white) GitHub Stats
 
 <div align="center">
 
@@ -87,7 +90,7 @@ class Darshana(Developer):
 
 ---
 
-## 🏆 Trophies
+## ![Trophy](https://img.shields.io/badge/-Trophies-FFD700?style=flat-square&logo=hackthebox&logoColor=black) Trophies
 
 <div align="center">
 
@@ -97,7 +100,7 @@ class Darshana(Developer):
 
 ---
 
-## 🐍 Contribution Snake
+## ![Snake](https://img.shields.io/badge/-Contribution_Snake-092E20?style=flat-square&logo=python&logoColor=white) Contribution Snake
 
 <div align="center">
 
@@ -107,7 +110,7 @@ class Darshana(Developer):
 
 ---
 
-## 🤝 Let's Connect
+## ![Connect](https://img.shields.io/badge/-Let's_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white) Let's Connect
 
 <div align="center">
 
@@ -124,8 +127,8 @@ class Darshana(Developer):
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kachhadiyadarshana12&color=blueviolet&style=for-the-badge)
 
-### ✨ *"First, solve the problem. Then, write the code."* ✨
+### *"First, solve the problem. Then, write the code."*
 
-**Thanks for visiting! Drop a ⭐ if you like what you see 😄**
+![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-Drop_a_star_if_you_like_what_you_see-yellow?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
