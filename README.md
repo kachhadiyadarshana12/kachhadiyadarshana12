@@ -88,27 +88,6 @@ class Darshana(Developer):
 
 </div>
 
----
-
-## ![Trophy](https://img.shields.io/badge/-Trophies-FFD700?style=flat-square&logo=hackthebox&logoColor=black) Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kachhadiyadarshana12&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ![Snake](https://img.shields.io/badge/-Contribution_Snake-092E20?style=flat-square&logo=python&logoColor=white) Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/kachhadiyadarshana12/kachhadiyadarshana12/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## ![Connect](https://img.shields.io/badge/-Let's_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white) Let's Connect
 
@@ -126,8 +105,6 @@ class Darshana(Developer):
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kachhadiyadarshana12&color=blueviolet&style=for-the-badge)
-
-### *"First, solve the problem. Then, write the code."*
 
 ![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-Drop_a_star_if_you_like_what_you_see-yellow?style=for-the-badge&logo=github&logoColor=white)
 
