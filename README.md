@@ -23,7 +23,7 @@ class Darshana(Developer):
 
     name     = "Darshana Kachhadiya"
     role     = "Python · Django Developer"
-    location = "Ahmedabad,Gujarat, India"
+    location = "Ahmedabad, Gujarat, India"
     
     currently = {
         "building"  : "Scalable Django REST APIs",
